@@ -2,6 +2,7 @@
   "type": "module",
   "name": "kanbas-node-server-app",
   "version": "1.0.0",
+  "start": "node App.js",
   "description": "",
   "main": "index.js",
   "scripts": {
